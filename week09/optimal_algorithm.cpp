@@ -11,6 +11,8 @@
 
 using namespace std;
 
+// This is optimal page replacement algortihm
+
 int main(){
 
 	int n;
