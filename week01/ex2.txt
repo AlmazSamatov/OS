@@ -1,0 +1,43 @@
+    1  cd ..
+    2  ls
+    3  cd ~
+    4  whoami
+    5  hostname
+    6  man whoami
+    7  man man
+    8  sudo 
+    9  sudo apt-get 
+   10  man -h
+   11  less
+   12  less --help
+   13  clean
+   14  clear
+   15  head
+   16  head a.samatov
+   17  cd a.samatov
+   18  cd ..
+   19  ls -a
+   20  ls 
+   21  ls
+   22  ls | grep uniuser
+   23  ls | grep u
+   24  grep printf *
+   25  mkdir ~/week1
+   26  cd ~/week1
+   27  ls /usr/bin | grep gcc | sort -r > ~/week1/ex1.txt
+   28  cat ex1.txt
+   29  cd ..
+   30  cd >>
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd usr/bin
+   35  ls
+   36  cd .. 
+   37  cd ..
+   38  cd week1
+   39  cd ~/week1
+   40  .
+   41  ls .
+   42  less ex1.txt
+   43  history > ex2.txt
